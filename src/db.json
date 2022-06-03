@@ -1,0 +1,25 @@
+{
+    "services":[
+    {
+        "name": "banho e tosa",
+        "price": "R$ 250.00",
+        "description": "Lorem ipsum dolor sit amet. Est quasi voluptatem nam sint sequi sed impedit nesciunt ex deserunt optio qui sint aliquid.",
+        "active": "true",
+        "image":"https://www.lavanguardia.com/files/image_948_465/uploads/2018/12/27/5fa44edc17fbd.jpeg"
+    },
+        {
+        "name": "Consulta",
+        "price": "R$ 100.00",
+        "description": "Lorem ipsum dolor sit amet. Est quasi voluptatem nam sint sequi sed impedit nesciunt ex deserunt optio qui sint aliquid.",
+        "active": true,
+        "image":"https://www.petz.com.br/blog/wp-content/uploads/2022/04/cachorro-e-vertebrado-ou-invertebrado2.jpg"
+      },
+        {
+        "name": "vacinação",
+        "price": "R$ 80.00",
+        "description": "Lorem ipsum dolor sit amet. Est quasi voluptatem nam sint sequi sed impedit nesciunt ex deserunt optio qui sint aliquid.",
+        "active": true,
+        "image":"https://love.doghero.com.br/wp-content/uploads/2018/12/golden-retriever-1.png"
+      }
+    ]
+}
